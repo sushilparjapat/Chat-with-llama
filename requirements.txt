@@ -1,0 +1,7 @@
+streamlit
+flask
+requests
+torch
+transformers
+langchain-core 
+langgraph>0.2.27
