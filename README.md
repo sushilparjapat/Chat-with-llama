@@ -18,4 +18,4 @@ This is a chatbot application using **Flask** for the backend and **Streamlit** 
 
     python backend.py
 4. Run Streamlit frontend:
-   streamlit run chatbot_ui.py
+   streamlit run app.py
